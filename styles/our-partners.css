@@ -1,0 +1,458 @@
+html {
+
+  font-size: 52.2%;
+}
+
+body {
+  width: 100%;
+  background-color: black;
+}
+
+.landing-page-kcR {
+  width: 100%;
+
+  position: relative;
+  overflow: hidden;
+  background-color: #0b0b0b;
+}
+
+.OrderProducts {
+  width: 50%;
+}
+
+a:link {
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.navebaricon {
+  display: flex;
+  align-items: center;
+}
+
+/* Styles for the WhatsApp image */
+.whatsappimage2023-09-05at1214-1-mRb {
+  width: 50px;
+  /* Adjust the width of the image as needed */
+  height: auto;
+  margin-right: 10px;
+}
+
+.frame-14600-XqT {
+  display: flex;
+  align-items: center;
+}
+
+/* Styles for navigation links */
+.frame-14600-XqT a {
+  text-decoration: none;
+  margin: 0 15px;
+  /* Adjust the spacing between links */
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.frame-14597-XBF {
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6b2c;
+  border-radius: 4rem;
+}
+
+.line-10-rR7,
+.line-11-BiH,
+.line-12-iTK,
+.line-13-sb7,
+.line-16-DQ5 {
+  width: 0.1rem;
+  height: 10rem;
+  border-left: 0.1px solid #575757;
+}
+.frame-14600-XqT {
+  display: flex;
+  align-items: center;
+}
+
+/* Styles for navigation links within the .frame-14600-XqT div */
+.frame-14600-XqT {
+  text-decoration: none;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+
+.line-9-Pub {
+  width: 100%;
+  height: 0.1rem;
+
+  left: 0.5rem;
+  top: 10rem;
+  background-color: rgba(87, 87, 87, 0.6499999762);
+}
+
+
+.contact-us-cFj {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #0b0b0b;
+}
+.frame-14601-o4m {
+  box-sizing: border-box;
+  /* padding: 7.679rem 53.5rem 7.734rem 53.5rem; */
+  width: 100%;
+  /* height: 34.5rem; */
+  background-color: #202020;
+  /*  */
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  /* margin-top: 50px; */
+}
+.frame-14596-K37{
+  display: flex;
+}
+.frame-14588-sqK{
+  margin: 20px;
+}
+.general-Q4Z {
+  margin-bottom: 1.8468rem;
+  font-size: 2.5097rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.005rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+.about-us-uGD {
+  margin-bottom: 1.1rem;
+  font-size: 1.8822rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+.services-FL5 {
+  font-size: 1.8822rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+.frame-14589-oMb{
+  margin: 20px;
+}
+.policies-m3X {
+  margin-bottom: 1.8468rem;
+  font-size: 2.5097rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.005rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+.security-safeguards-ttq {
+  margin-bottom: 0.6135rem;
+  font-size: 1.8822rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+.terms-of-service-drR {
+  margin-bottom: 0.6135rem;
+  font-size: 1.8822rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+.privacy-nDX {
+  margin-bottom: 0.6136rem;
+  font-size: 1.8822rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+.accessibility-iN5 {
+  font-size: 1.8822rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+
+
+/* nn */
+.auto-group-8ech-AQh {
+  width: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.auto-group-c9qt-Vxm {
+  margin: 0rem 1.3rem 0.4rem 0rem;
+  display: flex;
+  width: 90%;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.our-partners-EvM {
+  margin-bottom: 1.2rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.line-20-MVB {
+  margin-bottom: 2.85rem;
+  /* width: 96rem; */
+  height: 0.15rem;
+  background-color: rgba(255, 255, 255, 0.7799999714);
+  flex-shrink: 0;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idsit-purus-ante-dictum-in-malesuada-idlorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-id-hJ9 {
+  /* max-width: 100.1rem; */
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.image-6-SQ9 {
+  width: 26.5rem;
+  height: 23.6rem;
+  position: relative;
+  background-size: 124.309% 160.714%;
+  background-position: -3.8757rem -10.5357rem;
+  background-image: url('../assets/image-6.png');
+  flex-shrink: 0;
+}
+.auto-group-uec1-YTB {
+  /* width: 132.7rem; */
+  width: 90%;
+  /* height: 39.3rem; */
+  /* position: absolute; */
+  left: 9.4rem;
+  top: 50rem;
+  display: flex;
+  align-items: center;
+}
+.image-7-rim {
+  /* margin: 0.7rem 6.8rem 0rem 0rem; */
+  width: 25.8rem;
+  height: 26.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.auto-group-gntk-YrV {
+  width: 65%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.become-our-partner-iFB {
+  margin-bottom: 1.2rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.line-21-rcH {
+  margin-bottom: 2.85rem;
+  /* width: 96rem; */
+  width: 100%;
+  height: 0.15rem;
+  background-color: rgba(255, 255, 255, 0.7799999714);
+  flex-shrink: 0;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idsit-purus-ante-dictum-in-malesuada-idlorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-id-bpm {
+  /* max-width: 100.1rem; */
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.auto-group-eefj-UHf {
+  width: 100%;
+  /* height: 120.1rem; */
+  /* position: relative; */
+  /* flex-shrink: 0; */
+}
+.our-partners-kcZ {
+  width: 100%;
+  /* overflow: hidden; */
+  /* position: relative; */
+  /* align-items: center; */
+  display: flex;
+  flex-direction: column;
+  background-color: #0b0b0b;
+  padding-bottom: 50px;
+}
+
+
+.auto-group-eefj-UHf {
+  width: 100%;
+  /* height: 120.1rem; */
+  /* position: relative; */
+  /* flex-shrink: 0; */
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+}
+.frame-14602-nQ9 {
+  width: 25.2rem;
+  height: 5rem;
+  /* position: absolute; */
+  /* left: 42rem; */
+  /* top: 78rem; */
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6b2c;
+  border-radius: 4rem;
+  margin-right: 13%;
+}
+
+
+
+.mobile_icon {
+  display: none;
+}
+
+@media (max-width: 1024px) {
+  .whatsappimage2023-09-05at1214-1-mRb {
+  display: block;
+}
+
+.mobile_icon {
+  display: block;
+  margin-right: 5px;
+
+}
+/* .frame-14600-XqT */
+
+.frame-14600-XqT {
+  display: none;
+}
+.frame-obF{
+  flex-direction: column;
+}
+
+.frame-14596-K37{
+  flex-direction: column;
+}
+.line-9-Pub{
+  display: none;
+}
+
+
+/* cvb */
+
+.auto-group-8ech-AQh {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.auto-group-uec1-YTB {
+  width: 90%;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: center;
+}
+.auto-group-gntk-YrV{
+  width: 100%;
+}
+.frame-14602-nQ9{
+  margin-right: 0px;
+  margin-top: 50px;
+}
+}

@@ -1,0 +1,2027 @@
+html {
+
+  font-size: 52.4%;
+}
+
+body {
+  width: 100%;
+  background-color: black;
+}
+
+.landing-page-kcR {
+  width: 100%;
+
+  position: relative;
+  overflow: hidden;
+  background-color: #0b0b0b;
+}
+
+
+
+a:link {
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.navebaricon {
+  display: flex;
+  align-items: center;
+}
+
+/* Styles for the WhatsApp image */
+.whatsappimage2023-09-05at1214-1-mRb {
+  width: 50px;
+  /* Adjust the width of the image as needed */
+  height: auto;
+  margin-right: 10px;
+}
+
+.frame-14600-XqT {
+  display: flex;
+  align-items: center;
+}
+
+/* Styles for navigation links */
+.frame-14600-XqT a {
+  text-decoration: none;
+  margin: 0 15px;
+  /* Adjust the spacing between links */
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.frame-14597-XBF {
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6b2c;
+  border-radius: 4rem;
+}
+
+.line-10-rR7,
+.line-11-BiH,
+.line-12-iTK,
+.line-13-sb7,
+.line-16-DQ5 {
+  width: 0.1rem;
+  height: 10rem;
+  border-left: 0.1px solid #575757;
+}
+
+.line-9-Pub {
+  width: 100%;
+  height: 0.1rem;
+
+  left: 0.5rem;
+  top: 10rem;
+  background-color: rgba(87, 87, 87, 0.6499999762);
+}
+
+.orderImg {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+}
+.OrderProducts{
+width: 100%;
+padding: 10px;
+}
+
+/* .OrderProducts{
+ 
+}
+.men_with-box{
+width: 100%;
+} */
+
+.join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw {
+  /* width: 72.3rem; */
+  /* height: 21.6rem; */
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ff6b2c;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+
+.join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw-sub-3 {
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ff6b2c;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-5bP {
+  /* width: 63.6rem; */
+
+  /* margin-top: 10%; */
+  margin-bottom: 1%;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #efefef;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.frame-14599-kSd {
+  width: 16.3rem;
+  height: 5rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6b2c;
+  border-radius: 4rem;
+}
+
+.frame-14599-kS {
+  
+  width: 16.3rem;
+  height: 5rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6b2c;
+  border-radius: 4rem;
+}
+
+.group-1-HL5 {
+  position: relative;
+}
+
+.rectangle-1-Ws3 {
+  width: 45.1rem;
+  height: 40.4rem;
+  /* position: absolute; */
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 26rem;
+}
+
+.ellipse-1-pau {
+  width: 9.4rem;
+  height: 9.4rem;
+  position: absolute;
+
+  left: 22.7rem;
+  top: 6.2rem;
+  filter: blur(6.2rem);
+  background-color: #ff6b2c;
+  border-radius: 4.7rem;
+}
+
+.ellipse-2-w9j {
+  width: 9.4rem;
+  height: 9.4rem;
+  position: absolute;
+
+  left: 3.3rem;
+  top: 34.1rem;
+  filter: blur(6.2rem);
+  background-color: #ff6b2c;
+  border-radius: 4.7rem;
+}
+
+.rectangle-2-fbX {
+  width: 29.6rem;
+  height: 37.4rem;
+  position: absolute;
+
+  left: 4.8rem;
+  top: 6.2rem;
+  border: solid 0.1rem #909090;
+  box-sizing: border-box;
+  border-radius: 25rem;
+}
+
+
+
+
+
+/* next  */
+/* next-div */
+.next-div {
+  display: flex;
+  /* margin-top: 50px; */
+  justify-content: space-between;
+  padding: 0 1%;
+}
+
+.frame-18-VMb {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  width: 40%;
+}
+
+.how-we-work-odB {
+  margin-bottom: 0.4rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-KLd {
+  margin-left: 1rem;
+  /* max-width: 48.1rem; */
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #efefef;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+/* image-div */
+.group-19-wso {
+  width: 50.3rem;
+  height: 25.1rem;
+  position: relative;
+}
+
+.rectangle-3-5z1 {
+  width: 49rem;
+  height: 24.6rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0.5rem;
+  background-color: #d9d9d9;
+  background-size: 100% 132.724%;
+  background-position: -0rem 0.3088rem;
+  background-image: url('../assets/rectangle-3-bg.png');
+  border-radius: 17rem;
+}
+
+.rectangle-3-5z1-bg {
+  width: 49rem;
+  height: 24.6rem;
+  position: absolute;
+  background-image: url('REPLACE_IMAGE:78487ac393a62ccb0c9933e7bbb1e00dfda3c754');
+}
+
+.ellipse-3-hkV {
+  width: 9.4rem;
+  height: 9.4rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 9.1rem;
+  filter: blur(4.5rem);
+  background-color: #ff6b2c;
+  border-radius: 4.7rem;
+}
+
+.group-17-Qeu {
+  width: 9.1rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.frame-14597-8L1 {
+  width: 26.9rem;
+  height: 8.6rem;
+  position: relative;
+  display: flex;
+  top: 75.8%;
+  right: 50%;
+  box-shadow: 0 0.4rem 3.4rem rgba(255, 107, 44, 0.6999999881);
+  background-color: rgba(255, 255, 255, 0.6999999881);
+  border-radius: 17rem;
+}
+
+.image-2-Gh7 {
+  width: 7rem;
+  height: 7.6rem;
+
+  left: 1.4rem;
+  top: 0.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.get-fast-delivery-QoK {
+  width: 17.1rem;
+  height: 3rem;
+  margin-top: 25px;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  font-style: italic;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.auto-group-om93-gF3 {
+  box-sizing: border-box;
+  padding: 3.1rem 9rem 13.7rem 8.5rem;
+  /* height: 169.6rem; */
+  width: 100%;
+  margin-top: 50px;
+  left: 0;
+  top: 100.4rem;
+  display: flex;
+  flex-direction: column;
+  /* grid-template-columns: repeat(2, 66.7958rem);
+    grid-auto-rows: 76.8083rem; */
+  /* justify-content:space; */
+  align-items: center;
+  background-color: #171717;
+}
+
+.why-you-choose-us-Liu {
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-Uwb {
+  max-width: 88rem;
+  margin: 15px;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #efefef;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.frame-14606-5wP {
+  width: 100%;
+  row-gap: 4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.frame-24-zYZ {
+  margin-right: 2.85rem;
+  width: 100%;
+  margin-top: 50px;
+  /* height: 32.9rem; */
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+/* margin-bottom: 26px; */
+}
+
+.group-20-jFF {
+  margin-right: 5.8rem;
+  width: 35.4rem;
+  /* height: 100%; */
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-14601-asdp{
+  display: none;
+}
+.ellipse-62-3Wq {
+  width: 28.6rem;
+  height: 28.6rem;
+
+  left: 4rem;
+  top: 3.1rem;
+  background-color: rgba(255, 107, 44, 0.3400000036);
+  border-radius: 14.3rem;
+}
+.tetimg{
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.group-text{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.ellipse-65-Bey {
+  width: 31rem;
+  position: absolute;
+  height: 31rem;
+  left: -1.2rem;
+  top: -1.1rem;
+  border: dashed 0.1rem rgba(255, 107, 44, 0.3199999928);
+  box-sizing: border-box;
+  border-radius: 15.5rem;
+}
+
+.image-2-htD {
+  width: 25rem;
+  position: absolute;
+  height: 27.2rem;
+  left: 1.8rem;
+  top: -33px;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.ellipse-63-eoT {
+  width: 5.6rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 29.8rem;
+  top: 0.3rem;
+  box-shadow: inset 2rem 1rem 2rem #00000066;
+  background-color: rgba(255, 107, 44, 0.5400000215);
+  border-radius: 2.8rem;
+}
+
+.ellipse-64-iYR {
+  width: 5.6rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 0;
+  top: 26.1rem;
+  box-shadow: inset 2rem 1rem 2rem rgba(0, 0, 0, 0.400000006));
+  background-color: rgba(255, 107, 44, 0.5400000215);
+  border-radius: 2.8rem;
+}
+
+.frame-14602-Rxd {
+  margin: 3.9rem 0rem 5.7rem 0rem;
+  width: 100%;
+  height: calc(100% - 9.6rem);
+}
+
+.services-ZJ9 {
+  margin-bottom: 2.7rem;
+  display: flex;
+  width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-TuK {
+  margin-bottom: 2.8rem;
+  max-width: 88rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #efefef;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.frame-14601-6SV {
+  width: 16.3rem;
+  height: 5rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6b2c;
+  border-radius: 4rem;
+}
+
+.frame-25-CEd {
+  margin-left: 2.15rem;
+  width: 100%;
+  /* height: 32.6rem; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+/* margin-bottom: 10px; */
+}
+
+.frame-14603-LLq {
+  margin: 0rem 6.5rem 1rem 0rem;
+  width: 100%;
+}
+
+.order-tracking-2UZ {
+  margin-bottom: 2.7rem;
+  width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 600;
+  display: flex;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-9p5 {
+  margin-bottom: 2.8rem;
+  max-width: 88rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #efefef;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.frame-14601-CnM {
+  width: 16.3rem;
+  height: 5rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6b2c;
+  border-radius: 4rem;
+}
+
+.group-21-ugm {
+  /* width: 35.4rem; */
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.ellipse-62-GGR {
+  width: 28.6rem;
+  height: 28.6rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 1.3rem;
+  background-color: rgba(161, 130, 117, 0.3400000036);
+  border-radius: 14.3rem;
+}
+
+.ellipse-65-CA5 {
+  width: 31rem;
+  height: 31rem;
+
+  left: 2.8rem;
+  top: 1.6rem;
+  border: dashed 0.1rem rgba(174, 136, 120, 0.3199999928);
+  box-sizing: border-box;
+  border-radius: 15.5rem;
+}
+
+.image-2-iu7 {
+  width: 25rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 2.5rem;
+  ;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.ellipse-63-xoT {
+  width: 5.6rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 29.8rem;
+  top: 0;
+  box-shadow: inset 2rem 1rem 2rem rgba(0, 0, 0, 0.400000006));
+  background-color: #463c37;
+  border-radius: 2.8rem;
+}
+
+.ellipse-64-5NH {
+  width: 5.6rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 0;
+  top: 25.8rem;
+  box-shadow: inset 2rem 1rem 2rem rgba(0, 0, 0, 0.400000006));
+  background-color: #463c37;
+  border-radius: 2.8rem;
+}
+
+.frame-27-o3P {
+  margin-right: 2.85rem;
+  width: 100%;
+  /* height: 32.6rem; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.group-22-LZ7 {
+  margin-right: 5.8rem;
+  width: 35.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.ellipse-62-tad {
+  width: 28.6rem;
+  height: 28.6rem;
+  position: absolute;
+  left: 1rem;
+  top: 1.3rem;
+  background-color: rgba(123, 227, 255, 0.1400000006);
+  border-radius: 14.3rem;
+}
+
+.ellipse-65-bE9 {
+  width: 31rem;
+  height: 31rem;
+
+  left: 2.8rem;
+  top: 1.6rem;
+  border: dashed 0.1rem #253437;
+  box-sizing: border-box;
+  border-radius: 15.5rem;
+}
+
+.image-2-hny {
+  width: 25rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 1.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.ellipse-63-3bw {
+  width: 5.6rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 29.8rem;
+  top: 0;
+  box-shadow: inset 2rem 1rem 2rem rgba(0, 0, 0, 0.400000006));
+  background-color: #253437;
+  border-radius: 2.8rem;
+}
+
+.ellipse-64-NeD {
+  width: 5.6rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 0;
+  top: 25.8rem;
+  box-shadow: inset 2rem 1rem 2rem rgba(0, 0, 0, 0.400000006));
+  background-color: #253437;
+  border-radius: 2.8rem;
+}
+
+.frame-14604-6aD {
+  margin: 3.6rem 0rem 5.7rem 0rem;
+  width: 100%;
+  height: calc(100% - 9.3rem);
+}
+
+.safe-secure-D93 {
+  margin-bottom: 2.7rem;
+  width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  display: flex;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-LjT {
+  margin-bottom: 2.8rem;
+  max-width: 88rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #efefef;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.frame-14601-m45 {
+  width: 16.3rem;
+  height: 5rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6b2c;
+  border-radius: 4rem;
+}
+
+.frame-26-Fjw {
+  margin-left: 2.15rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.frame-14605-B7o {
+  margin: 0rem 6.5rem 1rem 0rem;
+  width: 100%;
+}
+
+.fast-delivery-6Vf {
+  margin-bottom: 2.7rem;
+  width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+}
+
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-S3j {
+  margin-bottom: 2.8rem;
+  max-width: 88rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #efefef;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.text-159{
+display: none;
+}
+.frame-14601-sPw {
+  width: 16.3rem;
+  height: 5rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6b2c;
+  border-radius: 4rem;
+}
+
+.group-23-b53 {
+  width: 35.4rem;
+  height: 60%;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.ellipse-62-v7K {
+  width: 28.6rem;
+  height: 28.6rem;
+  position: absolute;
+  left: 1rem;
+  top: 1.3rem;
+  background-color: rgba(100, 100, 202, 0.3400000036);
+  border-radius: 14.3rem;
+}
+
+.ellipse-65-eZ7 {
+  width: 31rem;
+  height: 31rem;
+
+  left: 2.8rem;
+  top: 1.6rem;
+  border: dashed 0.1rem #313154;
+  box-sizing: border-box;
+  border-radius: 15.5rem;
+}
+
+.image-2-z7B {
+  width: 25rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 1.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.ellipse-63-8UH {
+  width: 5.6rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 29.8rem;
+  top: 0;
+  box-shadow: inset 2rem 1rem 2rem rgba(0, 0, 0, 0.400000006));
+  background-color: #313154;
+  border-radius: 2.8rem;
+}
+
+.ellipse-64-dfw {
+  width: 5.6rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 0;
+  top: 25.8rem;
+  box-shadow: inset 2rem 1rem 2rem rgba(0, 0, 0, 0.400000006));
+  background-color: #313154;
+  border-radius: 2.8rem;
+}
+
+.line-14-MM3 {
+  width: 133.2rem;
+  height: 0.1rem;
+  background-color: rgba(255, 255, 255, 0.6499999762);
+}
+
+
+
+.auto-group-wzsm-WNM {
+  box-sizing: border-box;
+  padding: 3.4rem 9rem 11.3rem 8rem;
+  height: 73.2rem;
+  width: 100%;
+  left: 0;
+  top: 303.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.line-15-1K7 {
+  margin: 0rem 0rem 5.6rem 1rem;
+  height: 0.1rem;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.6499999762);
+  flex-shrink: 0;
+}
+
+/* .auto-group-w5ay-7N9 {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+} */
+
+.auto-group-jfny-scD {
+  /* margin-right: 5.9rem; */
+  box-sizing: border-box;
+  padding-bottom: 5rem;
+  /* width: 72.8rem; */
+
+  width: 50%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-bottom: solid 0.1rem rgba(255, 255, 255, 0.6000000238);
+  /* flex-shrink: 0; */
+}
+
+.auto-group-yi1f-CPb {
+  margin: 0rem 3rem 3.3rem 2.8rem;
+  /* width: calc(100% - 5.8rem); */
+  width: 100%;
+  height: 4.7rem;
+  display: flex;
+  align-items: center;
+  /* flex-shrink: 0; */
+  justify-content: space-around;
+}
+
+.coconuts-jPX {
+  /* margin: 0rem 38.6rem 0.1rem 0rem; */
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  width: 100%;
+  /* flex-shrink: 0; */
+}
+
+.frame-10-4Ro {
+  box-sizing: border-box;
+  padding: 1.2rem 2.128rem 1.2rem 2.028rem;
+  width: 10.5rem;
+  height: 100%;
+  background-color: #ff6b2c;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.frame-9-yof {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.more-jH3 {
+  margin-right: 0.5rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.vector-32q {
+  margin-top: 0rem;
+  width: 2.0441rem;
+  height: 2.0499rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.line-4-ANM {
+  margin-bottom: 5.4rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(255, 255, 255, 0.6000000238);
+  flex-shrink: 0;
+}
+
+.auto-group-kqv5-JzM {
+  margin: 0rem 3rem 4.6rem 2.8rem;
+  /* width: calc(100% - 5.8rem); */
+  width: 100%;
+  height: 4.7rem;
+  display: flex;
+  align-items: center;
+  /* flex-shrink: 0; */
+}
+
+.potato-F8u {
+  /* margin: 0rem 43.1rem 0.1rem 0rem; */
+  font-size: 2.8rem;
+  width: 100%;
+  display: flex;
+
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  /* flex-shrink: 0; */
+}
+
+.frame-14598-9EH {
+  box-sizing: border-box;
+  padding: 1.2rem 2.128rem 1.2rem 2.028rem;
+  width: 10.5rem;
+  height: 100%;
+  background-color: #ff6b2c;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.frame-9-5dj {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.more-egq {
+  margin-right: 0.5rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.vector-YnD {
+  margin-top: 0rem;
+  width: 2.0441rem;
+  height: 2.0499rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.line-5-HE1 {
+  margin-bottom: 5rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(255, 255, 255, 0.6000000238);
+  flex-shrink: 0;
+}
+
+.auto-group-2w9k-2hP {
+  margin: 0rem 3rem 4.6rem 2.8rem;
+  width: 100%;
+  height: 4.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.black-pepper-jbo {
+  /* margin: 0.1rem 33.9rem 0rem 0rem; */
+  font-size: 2.8rem;
+  width: 100%;
+  display: flex;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  /* flex-shrink: 0; */
+}
+
+.frame-14599-SWD {
+  box-sizing: border-box;
+  padding: 1.2rem 2.128rem 1.2rem 2.028rem;
+  width: 10.5rem;
+  height: 100%;
+  background-color: #ff6b2c;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.frame-9-N8y {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.more-jVK {
+  margin-right: 0.5rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.vector-Uho {
+  margin-top: 0rem;
+  width: 2.0441rem;
+  height: 2.0499rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.line-6-ok5 {
+  margin-bottom: 5.5rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(255, 255, 255, 0.6000000238);
+  flex-shrink: 0;
+}
+
+.auto-group-is65-YSm {
+  /* margin: 0rem 3rem 4.9rem 2.8rem; */
+  /* width: calc(100% - 5.8rem); */
+  width: 100%;
+  height: 4.7rem;
+  display: flex;
+  align-items: center;
+  /* flex-shrink: 0; */
+}
+
+.more-products-5hb {
+  /* margin: 0rem 31.9rem 0.1rem 0rem; */
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  /* flex-shrink: 0; */
+  width: 100%;
+  display: flex;
+}
+
+.frame-14600-1bF {
+  box-sizing: border-box;
+  padding: 1.2rem 2.128rem 1.2rem 2.028rem;
+  width: 10.5rem;
+  height: 100%;
+  background-color: #ff6b2c;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.frame-9-xFb {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.more-Kbw {
+  margin-right: 0.5rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.vector-FVb {
+  margin-top: 0rem;
+  width: 2.0441rem;
+  height: 2.0499rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+/* .frame-28-XCD {
+  margin-bottom: 0.0559rem;
+  box-sizing: border-box;
+  padding: 0.829rem 4.246rem 4.312rem 4.054rem;
+  width: 55.5rem;
+  height: 52.7441rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #3a3a3a;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+} */
+
+.image-4-17P {
+  margin: 0rem 0rem 0.663rem 0.766rem;
+  width: 23.1569rem;
+  height: 20.5669rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.coconuts-jJH {
+  margin: 0rem 0rem 2.971rem 0.574rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-bE1 {
+  margin-bottom: 3.1079rem;
+  max-width: 47.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.frame-14607-4tH {
+  margin: 0rem 7.811rem 0rem 8.194rem;
+  width: calc(100% - 16.0052rem);
+  height: 8.2931rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6b2c;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+
+.our-products-KZK {
+  width: 31.8rem;
+  height: 7.2rem;
+
+  left: 59.7rem;
+  top: 289.6rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.our-products-heading {
+  margin-bottom: 3.1079rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.auto-group-7nqy-z9f {
+  box-sizing: border-box;
+  padding: 5.6rem 14rem 5.6rem 9rem;
+  /* width: 151.2rem; */
+  width: 100%;
+  margin-top: 50px;
+  justify-content: space-between;
+
+  left: 0;
+  top: 376.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #171717;
+}
+
+.frame-14609-4QR {
+  /* margin-right: 27.9rem; */
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  height: 14%;
+  /* flex-shrink: 0; */
+}
+
+.get-started-your-first-order-with-us-DHK {
+  margin-bottom: 2.1rem;
+  max-width: 50.2rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-XJ1 {
+  margin-bottom: 2.2rem;
+  max-width: 71.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #efefef;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.frame-14608-xeD {
+  width: 16.3rem;
+  height: 5rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6b2c;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+
+.image-5-sFP {
+  /* margin-top: 0.1rem; */
+  width: 28.8rem;
+  height: 28.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  /* flex-shrink: 0; */
+}
+
+.frame-15437-mvR {
+  justify-content: center;
+  /* width: 91.2rem; */
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  /* height: 34.4rem; */
+  flex-direction: column;
+  left: 30rem;
+  top: 426.6rem;
+  display: flex;
+  align-items: flex-start;
+}
+
+.auto-group-osqu-umj {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.text-Img {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-img-inner {
+  display: flex;
+
+}
+
+.coming-soon-rBB {
+  margin-bottom: 1.4rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.android-ios-M7w {
+  margin-bottom: 3.6rem;
+  font-size: 6.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.frame-14757-ttZ {
+  margin-right: 3rem;
+  /* width: calc(100% - 3rem); */
+  width: 100%;
+  justify-content: center;
+  height: 6.4rem;
+  display: flex;
+  align-items: center;
+}
+
+.image-13-LXb {
+  width: 34.4rem;
+  height: 34.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.frame-12-ExR {
+  margin-right: 3rem;
+  box-sizing: border-box;
+  padding: 1.7rem 1.431rem 1.7rem 1.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #272727;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.image-4-P4d {
+  margin-right: 1.1rem;
+  width: 2.3689rem;
+  height: 2.6rem;
+  position: relative;
+  background-size: 146.341% 100%;
+  background-position: -0.5778rem 0;
+  background-image: url('../assets/image-4-RrR.png');
+  flex-shrink: 0;
+}
+
+.google-play-tGH {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.frame-11-QkR {
+  box-sizing: border-box;
+  padding: 1.7rem 3.57rem 1.7rem 0.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #272727;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.image-6-xG9 {
+  margin-right: 1.2rem;
+  width: 2.8301rem;
+  height: 2.7rem;
+  position: relative;
+  background-size: 169.54% 99.962%;
+  background-position: -0.9922rem 0;
+  background-image: url('../assets/image-6-FQM.png');
+  flex-shrink: 0;
+}
+
+.app-store-EzM {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.frame-14596-z57 {
+  box-sizing: border-box;
+  /* padding: 7.679rem 53.5rem 7.734rem 53.5rem; */
+  height: 34.5rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin-top: 71px; */
+
+  left: 0;
+  top: 466.5rem;
+  background-color: #202020;
+}
+
+.frame-14596-seh {
+  width: 25%;
+  /* height: 100%; */
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 50px;
+}
+
+.frame-14588-SSu {
+  margin-right: 15.7rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.general-CS5 {
+  margin-bottom: 1.8468rem;
+  font-size: 2.5097rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.005rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-84q {
+  margin-bottom: 1.1rem;
+  font-size: 1.8822rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.services-4jB {
+  font-size: 1.8822rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.frame-14589-PmT {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.policies-kM7 {
+  margin-bottom: 1.8468rem;
+  font-size: 2.5097rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.005rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.security-safeguards-4ch {
+  margin-bottom: 0.6135rem;
+  font-size: 1.8822rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.terms-of-service-129 {
+  margin-bottom: 0.6135rem;
+  font-size: 1.8822rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.privacy-wRb {
+  margin-bottom: 0.6136rem;
+  font-size: 1.8822rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.accessibility-Teq {
+  font-size: 1.8822rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.mobile_icon {
+  display: none;
+}
+body {
+  font-size: 14px; /* Adjust font size for mobile screens */
+}
+.frame-14601-6Snn{
+  display: none;
+}
+
+
+.frame-28-XCD {
+  margin-bottom: 0.0559rem;
+  box-sizing: border-box;
+  /* padding: 0 10px; */
+  /* width: 55.5rem; */
+  height: 52.7441rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #3a3a3a;
+  border-radius: 0.5rem;
+  /* flex-shrink: 0; */
+}
+
+
+.auto-group-w5ay-7N9 {
+  width: 100%;
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+}
+
+.frame-14601{
+  display: none;
+}
+.image-2-tD{
+  display: none;
+}
+.order-now-div{
+display: none;
+}
+
+@media screen and (max-width: 800px)
+
+/* {
+  .frame-25-CEd {
+      margin-top: 34%;
+      flex-direction: column;
+      height: 32.6rem;
+  }
+  .frame-27-o3P {
+    height: 32.6rem;
+    margin-top: 9%;
+    flex-direction: column-reverse;
+    margin-left: 1.85rem;
+    margin-right: 0px;
+  }
+  .frame-25-CEd {
+    margin-top: 30%;
+    flex-direction: column;
+    height: 32.6rem;
+} */
+
+{
+  .image-2-tD{
+    display:block;
+  }
+  .group-21-ugm{
+    display: none;
+  }
+  .group-22-LZ7{
+    display: none;
+  }
+  .group-23-b53{
+    display: none;
+  }
+  .frame-14600-XqT  {
+  display: none;
+  }
+  .frame-14589-PmT{
+    text-align: center;
+  }
+  .frame-14596-z57{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .frame-14596-seh{
+        display: flex;
+  flex-direction: column;
+  }
+  .frame-14588-SSu{
+    margin: 0px;
+    align-items: center;
+  }
+  .text-img-inner{
+    display: flex;
+    flex-direction: column;
+  }
+  .android-ios-M7w 
+{
+  font-size: 4rem;
+}
+.frame-11-QkR {
+padding-right: 1.57rem;
+}
+.app-store-EzM, .google-play-tGH{
+  font-size: 1.5rem;
+}
+.frame-12-ExR{
+  margin-right: 0px;
+}
+.frame-14757-ttZ{
+  justify-content: space-evenly;
+}
+.auto-group-7nqy-z9f{
+  flex-direction: column;
+  padding: 0 2px 20px 2px;
+  align-items: center;
+  width: 100%;
+}
+.frame-14609-4QR{
+  text-align: center;
+  align-items: center;
+}
+.frame-14608-xeD{
+  display: none;
+}
+.frame-14608-xehh{
+  width: 16.3rem;
+  height: 5rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6b2c;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.auto-group-wzsm-WNM{
+  height: auto;
+}
+.auto-group-w5ay-7N9{
+  flex-direction: column;
+}
+.auto-group-jfny-scD{
+  width: 100%;
+}
+.auto-group-wzsm-WNM {
+padding: 3.4rem 1.5rem 3.4rem 1.5rem;
+}
+.coconuts-jPX, .potato-F8u, .black-pepper-jbo, .more-products-5hb {
+font-size: 1.8rem;
+}
+.auto-group-yi1f-CPb{
+  justify-content: unset;
+}
+.frame-28-XCD{
+  height: auto;
+}
+.frame-14607-4tH {
+margin-bottom: 1rem;
+height: 5.2rem;
+}
+.auto-group-om93-gF3{
+  padding: 0;
+}
+.why-you-choose-us-Liu {
+font-size: 2.8rem;
+}
+.frame-14606-5wP {
+width: 90%;
+}
+.frame-24-zYZ{
+  margin-right: 0px;
+  flex-direction: column;
+  margin-top: 0px;
+}
+.group-20-jFF{
+  /* width: 100%;
+  display: flex;
+  flex-shrink: 0;
+  justify-content: center;
+  margin-right: 0px; */
+  display: none;
+}
+.group-20FF{
+  width: 100%;
+  display: flex;
+  flex-shrink: 0;
+  justify-content: center;
+  margin-right: 0px;
+}
+.frame-25-CEd{
+  flex-direction: column;
+  margin-left: 0px;
+  justify-content: unset;
+}
+.frame-14603-LLq{
+  margin: 0px;
+}
+.auto-group-om93-gF3 {
+/* height: 267rem; */
+}
+.frame-27-o3P{
+  flex-direction: column;
+  /* justify-content: unset; */
+  margin-right: 0px;
+  height: auto;
+  justify-content: unset;
+  align-items: unset;
+}
+.group-22-LZ7{
+  height: auto;
+}
+.frame-26-Fjw{
+flex-direction: column;
+}
+.frame-26-Fjw{
+  margin-left: 0px;
+}
+.frame-14605-B7o{
+  margin: 0px;
+}
+.image-2-htD {
+  width: 54%;
+  /* position: absolute; */
+  height: 30.2rem;
+ 
+  object-fit: cover;
+  vertical-align: top;
+}
+.jte{
+  width: 100%;
+}
+.frame-14601-sPw{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+.frame-14601-m45{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+.frame-14601-CnM{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+.frame-14601-6SV{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+.frame-14605-B7o {
+margin-bottom: 30px;
+}
+.next-div{
+display: flex;
+flex-direction: column;
+padding: 0px;
+align-items: center;
+}
+.frame-18-VMb{
+  width: 100%;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-KLd{
+  width: 100%;
+  margin-left: 0px;
+  text-align: center;
+}
+.image-div{
+width: 100%;
+}
+.group-19-wso{
+  width: 95%;
+}
+.rectangle-3-5z1 {
+  width: 100%;
+  height: 21.6rem;
+}
+.ellipse-3-hkV {
+  width: 5.4rem;
+  height: 5.4rem;
+}
+.auto-group-ilxb-a5f
+{
+  width: 100%;
+}
+.orderImg {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.OrderProducts{
+  padding: 0px;
+}
+.join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw{
+  text-align: center;
+  font-size: 2.8rem;
+}
+.join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw{
+font-size: 2.8rem;
+}
+.join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw-sub-1 {
+font-size: 2.8rem;
+}
+.join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw{
+font-size: 2.8rem;
+}
+.join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw-sub-3{
+font-size: 2.8rem;
+}
+.join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw{
+  font-size: 2.8rem;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-5bP{
+  text-align: center;
+}
+.frame-14599-kSd{
+  display: none;
+}
+.rectangle-1-Ws3 {
+  width: 39.1rem;
+  height: 33.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 26rem;
+}
+.how-we-work-odB {
+font-size: 3.8rem;
+text-align: center;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-KLd {
+font-size: 1.2rem;
+}
+.men_with-box{
+width: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.order-now-div{
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+}
+
+.mobile_icon {
+  display: block;
+  margin-right: 5px;
+}
+
+.coming-soon-rBB {
+font-size: 3.8rem;
+}
+.android-ios-M7w {
+font-size: 3.5rem;
+}
+.image-13-LXb {
+  width: 25.4rem;
+  height: 25.4rem;
+}
+}

@@ -1,0 +1,684 @@
+html {
+
+  font-size: 52.2%;
+}
+
+body {
+  width: 100%;
+  background-color: black;
+}
+
+.landing-page-kcR {
+  width: 100%;
+
+  position: relative;
+  overflow: hidden;
+  background-color: #0b0b0b;
+}
+
+.OrderProducts {
+  width: 50%;
+}
+
+a:link {
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.navebaricon {
+  display: flex;
+  align-items: center;
+}
+
+/* Styles for the WhatsApp image */
+.whatsappimage2023-09-05at1214-1-mRb {
+  width: 50px;
+  /* Adjust the width of the image as needed */
+  height: auto;
+  margin-right: 10px;
+}
+
+.frame-14600-XqT {
+  display: flex;
+  align-items: center;
+}
+
+/* Styles for navigation links */
+.frame-14600-XqT a {
+  text-decoration: none;
+  margin: 0 15px;
+  /* Adjust the spacing between links */
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.frame-14597-XBF {
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6b2c;
+  border-radius: 4rem;
+}
+
+.line-10-rR7,
+.line-11-BiH,
+.line-12-iTK,
+.line-13-sb7,
+.line-16-DQ5 {
+  width: 0.1rem;
+  height: 10rem;
+  border-left: 0.1px solid #575757;
+}
+.frame-14600-XqT {
+  display: flex;
+  align-items: center;
+}
+
+/* Styles for navigation links within the .frame-14600-XqT div */
+.frame-14600-XqT {
+  text-decoration: none;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+
+.line-9-Pub {
+  width: 100%;
+  height: 0.1rem;
+
+  left: 0.5rem;
+  top: 10rem;
+  background-color: rgba(87, 87, 87, 0.6499999762);
+}
+
+
+.contact-us-cFj {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #0b0b0b;
+}
+.frame-14601-o4m {
+  box-sizing: border-box;
+  /* padding: 7.679rem 53.5rem 7.734rem 53.5rem; */
+  width: 100%;
+  /* height: 34.5rem; */
+  background-color: #202020;
+  /*  */
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  /* margin-top: 50px; */
+}
+.frame-14596-K37{
+  display: flex;
+}
+.frame-14588-sqK{
+  margin: 20px;
+}
+.general-Q4Z {
+  margin-bottom: 1.8468rem;
+  font-size: 2.5097rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.005rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+.about-us-uGD {
+  margin-bottom: 1.1rem;
+  font-size: 1.8822rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+.services-FL5 {
+  font-size: 1.8822rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+.frame-14589-oMb{
+  margin: 20px;
+}
+.policies-m3X {
+  margin-bottom: 1.8468rem;
+  font-size: 2.5097rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.005rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+.security-safeguards-ttq {
+  margin-bottom: 0.6135rem;
+  font-size: 1.8822rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+.terms-of-service-drR {
+  margin-bottom: 0.6135rem;
+  font-size: 1.8822rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+.privacy-nDX {
+  margin-bottom: 0.6136rem;
+  font-size: 1.8822rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+.accessibility-iN5 {
+  font-size: 1.8822rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+
+
+/* nn */
+.our-products-Czm {
+  width: 26.5rem;
+  height: 6rem;
+  /* position: absolute; */
+  left: 9rem;
+  top: 14.7rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.line-20-WEm {
+  /* width: 133.2rem; */
+  width: 100%;
+  height: 0.15rem;
+  /* position: absolute; */
+  left: 9rem;
+  top: 21.9rem;
+  background-color: rgba(255, 255, 255, 0.7799999714);
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idsit-purus-ante-dictum-in-malesuada-idlorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-id-r3j {
+  width:100%;
+  /* height: 12rem; */
+  /* position: absolute; */
+  left: 9rem;
+  top: 24.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.image-4-tgZ {
+  margin: 0rem 0rem 0.904rem 0.441rem;
+  width: 13.332rem;
+  height: 11.8409rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.coconuts-CBT {
+  margin: 0rem 0rem 1.115rem 0.331rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ff6b2c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-gcR {
+  margin-bottom: 1.7709rem;
+  max-width: 27.2rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-14607-Nk9 {
+  margin: 0rem 4.51rem 0rem 4.73rem;
+  font-size: 2.0363rem;
+  padding: 5px 10px 5px 10px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6b2c;
+  border-radius: 2.3029rem;
+  flex-shrink: 0;
+}
+
+
+.tender-coconut-HVj {
+  margin: 0rem 0rem 1.115rem 0.331rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ff6b2c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.image-4-bWR {
+  margin: 0rem 0rem 0.904rem 0.441rem;
+    width: 13.332rem;
+    height: 11.8409rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-KhK {
+  margin-bottom: 1.7709rem;
+  max-width: 27.2rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-14607-cAd {
+  margin: 0rem 4.51rem 0rem 4.73rem;
+  font-size: 2.0363rem;
+  padding: 5px 10px 5px 10px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6b2c;
+  border-radius: 2.3029rem;
+  flex-shrink: 0;
+
+}
+.image-4-kw3 {
+  margin: 0rem 0rem 0.904rem 0.441rem;
+  width: 13.332rem;
+  height: 11.8409rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.black-pepper-h5b {
+  margin: 0rem 0rem 1.115rem 0.331rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ff6b2c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-yYu {
+  margin-bottom: 1.7709rem;
+  max-width: 27.2rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-14607-sPP {
+  margin: 0rem 4.51rem 0rem 4.73rem;
+  font-size: 2.0363rem;
+  padding: 5px 10px 5px 10px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6b2c;
+  border-radius: 2.3029rem;
+  flex-shrink: 0;
+}
+.image-4-Ca5 {
+  margin: 0rem 0rem 0.904rem 0.441rem;
+  width: 13.332rem;
+  height: 11.8409rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.coconut-oil-ja1 {
+  margin: 0rem 0rem 1.115rem 0.331rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ff6b2c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-46V {
+  margin-bottom: 1.7709rem;
+  max-width: 27.2rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-14607-uN1 {
+  margin: 0rem 4.51rem 0rem 4.73rem;
+  font-size: 2.0363rem;
+  padding: 5px 10px 5px 10px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6b2c;
+  border-radius: 2.3029rem;
+  flex-shrink: 0;
+}
+
+.our-products-dSZ {
+  /* width: 100%; */
+  overflow: hidden;
+  /* position: relative; */
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #0b0b0b;
+  padding: 10px;
+}
+.auto-group-yfrs-ASV {
+  width: 100%;
+  /* height: 100rem; */
+  /* position: relative; */
+  flex-shrink: 0;
+}
+
+/* .auto-group-ppc9-Usj {
+  width: 133.3528rem;
+  left: 9rem;
+  top: 43.1rem;
+  display: flex;
+  align-items: flex-end;
+} */
+/* .group-14598-o9K {
+  margin-right: 1.6962rem;
+  box-sizing: border-box;
+  padding: 0.477rem 2.431rem 2.483rem 2.321rem;
+  width: 31.9528rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #3a3a3a;
+  border-radius: 0.2879rem;
+  flex-shrink: 0;
+} */
+/* .group-14599-DEy {
+  margin-right: 2rem;
+  box-sizing: border-box;
+  padding: 0.477rem 2.431rem 2.483rem 2.321rem;
+  width: 31.9528rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #3a3a3a;
+  border-radius: 0.2879rem;
+  flex-shrink: 0;
+} */
+/* .group-14600-gwB {
+  margin-right: 2rem;
+  box-sizing: border-box;
+  padding: 0.477rem 2.431rem 2.483rem 2.321rem;
+  width: 31.9528rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #3a3a3a;
+  border-radius: 0.2879rem;
+  flex-shrink: 0;
+}
+.group-15416-snh {
+  margin-bottom: 0.0445rem;
+  box-sizing: border-box;
+  padding: 0.477rem 2.431rem 2.483rem 2.321rem;
+  width: 31.9528rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #3a3a3a;
+  border-radius: 0.2879rem;
+  flex-shrink: 0;
+} */
+
+.group-14598-o9K,
+.group-14599-DEy,
+.group-14600-gwB,
+.group-15416-snh {
+  flex: 1; /* Distribute available space equally among the items */
+  max-width: calc(25% - 20px); /* Adjust the width of each item as needed, in this case, 25% minus some spacing */
+  margin: 10px; /* Add spacing between items */
+  box-sizing: border-box; /* Include padding and border in the item's total width */
+  background-color: #3a3a3a;
+  border-radius: 0.2879rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.0445rem;
+  box-sizing: border-box;
+  padding: 0.477rem 2.431rem 2.483rem 2.321rem;
+}
+.auto-group-ppc9-Usj {
+  display: flex; /* Use flexbox layout */
+  flex-wrap: wrap; /* Allow items to wrap to the next row if necessary */
+  justify-content: space-between; /* Distribute items evenly with space between them */
+  margin: 10px;
+  
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idsit-purus-ante-dictum-in-malesuada-idlorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idsit-purus-ante-dictum-in-malesuada-idlorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-dih {
+  width: 100%;
+  /* height: 18rem; */
+  /* position: absolute; */
+
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+
+.mobile_icon {
+  display: none;
+}
+
+
+
+
+@media (max-width: 1024px) {
+  .whatsappimage2023-09-05at1214-1-mRb {
+  display: block;
+}
+
+.mobile_icon {
+  display: block;
+  margin-right: 5px;
+
+}
+/* .frame-14600-XqT */
+
+.frame-14600-XqT {
+  display: none;
+}
+.frame-obF{
+  flex-direction: column;
+}
+
+.frame-14596-K37{
+  flex-direction: column;
+}
+.line-9-Pub{
+  display: none;
+}
+
+
+/* cvb */
+.auto-group-ppc9-Usj {
+  display: flex;
+  /* flex-wrap: wrap; */
+  justify-content: center;
+  margin: 10px;
+  align-items: center;
+  flex-direction: column;
+}
+.group-14598-o9K, .group-14599-DEy, .group-14600-gwB, .group-15416-snh {
+max-width: 85%;
+padding: 2.477rem 15.431rem 2.483rem 13.321rem;
+
+}
+.image-4-tgZ {
+  margin: 0rem 0rem 0.904rem 0.441rem;
+  width: 20.332rem;
+  height: 15.8409rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;}
+  .coconuts-CBT {
+    margin: 0rem 0rem 1.115rem 0.331rem;
+    text-align: center;
+    font-size: 2.4rem;
+  }
+  .frame-14607-Nk9 {
+  font-size: 3rem;
+  }
+  .image-4-bWR {
+    margin: 0rem 0rem 0.904rem 0.441rem;
+    width: 22.332rem;
+    height: 15.8409rem;
+  }
+  .tender-coconut-HVj{
+    font-size: 2.4rem;
+  }
+  .frame-14607-cAd{
+    font-size: 3rem;
+  }
+  .image-4-kw3 {
+    margin: 0rem 0rem 0.904rem 0.441rem;
+    width: 19.332rem;
+    height: 14.8409rem;
+  }
+  .black-pepper-h5b{
+    font-size: 2.4rem;
+  }
+  .frame-14607-sPP{
+    font-size: 3rem;
+  }
+  .image-4-Ca5 {
+    margin: 0rem 0rem 0.904rem 0.441rem;
+    width: 29.332rem;
+    height: 15.8409rem;
+  }
+  .coconut-oil-ja1{
+    font-size: 2.4rem;
+  }
+  .frame-14607-uN1{
+    font-size: 3rem;
+  }
+}
