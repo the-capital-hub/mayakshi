@@ -188,18 +188,15 @@
 
     <div class="auto-group-4zgm-hBF">
       <div class="frame-14751-zg9">
-        <!-- <div class="group-14747-vph">Your Name</div>
-        <div class="group-14748-zJm">Your Email</div>
-        <div class="group-14749-fQu">Your Phone Number</div>
-        <div class="group-14750-ie5">Your Message</div> -->
-       
-          <input class="group-14747-vph" type="text" id="name" name="name" placeholder="Your Name">
-          <input class="group-14747-vph" type="text" id="name" name="name" placeholder="Your Email">
-          <input class="group-14747-vph" type="text" id="name" name="name" placeholder="Your Phone Number">
-          <textarea class="group-14747-vph" type="text" id="name" name="name" placeholder="Your Message"></textarea>
+          <form id="contactForm">
+              <input class="group-14747-vph" type="text" id="name" name="name" placeholder="Your Name">
+              <input class="group-14747-vph" type="text" id="email" name="email" placeholder="Your Email">
+              <input class="group-14747-vph" type="text" id="phone" name="phone" placeholder="Your Phone Number">
+              <textarea class="group-14747-vph" id="message" name="message" placeholder="Your Message"></textarea>
+              <button type="submit" class="button-NyX">Send Message</button>
+          </form>
       </div>
-      <div id="myButton" class="button-NyX">Send Message</div>
-    </div>
+  </div>
     <!--<div class="auto-group-4zgm-hBF"> comment 1
     <form action="contact-form.php" method="post">--> <!-- Replace "/submit" with your desired form submission URL -->
 
@@ -287,6 +284,7 @@
 
 
 </div>
+<script src="./script/service.js"></script>
 <script>
   function openNav() {
     document.getElementById("mySidenav").style.width = "90%";
@@ -297,9 +295,9 @@
   }
 
       // JavaScript code to handle the button click event
-      document.getElementById("myButton").addEventListener("click", function() {
-        alert("Message sent.");
-    });
+    //   document.getElementById("myButton").addEventListener("click", function() {
+    //     alert("Message sent.");
+    // });
 </script>
   </script>
 </body>
