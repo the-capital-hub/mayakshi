@@ -1,5 +1,6 @@
 //backend base url
-const baseUrl = "http://localhost:8000";
+// const baseUrl = "http://localhost:8000";
+const baseUrl = "https://mayakshi.onrender.com";
 
 // contact form submit handler
 document.addEventListener('DOMContentLoaded', () => {
