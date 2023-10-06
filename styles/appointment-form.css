@@ -1,0 +1,473 @@
+html {
+
+    font-size: 52.2%;
+  }
+  
+  body {
+    width: 100%;
+    background-color: black;
+    font-family: Poppins, 'Source Sans Pro';
+  }
+  
+  
+  
+  
+  .OrderProducts {
+    width: 50%;
+  }
+  
+  a:link {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  .navebaricon {
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Styles for the WhatsApp image */
+  .whatsappimage2023-09-05at1214-1-mRb {
+    width: 50px;
+    /* Adjust the width of the image as needed */
+    height: auto;
+    margin-right: 10px;
+  }
+  
+  .frame-14600-XqT {
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Styles for navigation links */
+  .frame-14600-XqT a {
+    text-decoration: none;
+    margin: 0 15px;
+    /* Adjust the spacing between links */
+    font-size: 1.8rem;
+    font-weight: 600;
+    line-height: 1.5;
+    color: #ffffff;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+  }
+  
+  .frame-14597-XBF {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 1.8rem;
+    font-weight: 600;
+    line-height: 1.5;
+    color: #ffffff;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ff6b2c;
+    border-radius: 4rem;
+  }
+  
+  .line-10-rR7,
+  .line-11-BiH,
+  .line-12-iTK,
+  .line-13-sb7,
+  .line-16-DQ5 {
+    width: 0.1rem;
+    height: 10rem;
+    border-left: 0.1px solid #575757;
+  }
+  .frame-14600-XqT {
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Styles for navigation links within the .frame-14600-XqT div */
+  .frame-14600-XqT {
+    text-decoration: none;
+    font-size: 1.8rem;
+    font-weight: 600;
+    line-height: 1.5;
+    color: #ffffff;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+  }
+  
+  
+  .line-9-Pub {
+    width: 100%;
+    height: 0.1rem;
+  
+    left: 0.5rem;
+    top: 10rem;
+    background-color: rgba(87, 87, 87, 0.6499999762);
+  }
+  
+
+
+  .general-Q4Z {
+    margin-bottom: 1.8468rem;
+    font-size: 2.5097rem;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: -0.005rem;
+    color: #ffffff;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .about-us-uGD {
+    margin-bottom: 1.1rem;
+    font-size: 1.8822rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #ffffff;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .services-FL5 {
+    font-size: 1.8822rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #ffffff;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .policies-m3X {
+    margin-bottom: 1.8468rem;
+    font-size: 2.5097rem;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: -0.005rem;
+    color: #ffffff;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .security-safeguards-ttq {
+    margin-bottom: 0.6135rem;
+    font-size: 1.8822rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #ffffff;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .terms-of-service-drR {
+    margin-bottom: 0.6135rem;
+    font-size: 1.8822rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #ffffff;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .privacy-nDX {
+    margin-bottom: 0.6136rem;
+    font-size: 1.8822rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #ffffff;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .accessibility-iN5 {
+    font-size: 1.8822rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #ffffff;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .frame-14601-o4m {
+    box-sizing: border-box;
+    /* padding: 7.679rem 53.5rem 7.734rem 53.5rem; */
+    width: 100%;
+    /* height: 34.5rem; */
+    background-color: #202020;
+    /* flex-shrink: 0; */
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+  }
+  .frame-14596-K37{
+    display: flex;
+  }
+  .frame-14588-sqK{
+    margin: 20px;
+  }
+  .frame-14589-oMb{
+    margin: 20px;
+  }
+  
+  
+  
+
+/* form */
+.form-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px;
+    color: white;
+    gap: 5px;
+}
+.form-heading{
+    text-align: center;
+    font-size: 25px;
+
+}
+.input-label{
+font-size: 15px;
+}
+.text-input{
+background-color: #68686885;
+outline: none;
+border: none;
+padding: 10px;
+border-radius: 5px;
+font-size: 15px;
+color: white;
+}
+.textarea-input{
+    background-color: #68686885;
+outline: none;
+border: none;
+padding: 10px;
+border-radius: 5px;
+font-size: 15px;
+color: white;
+}
+.patner-data , .company-data{
+    margin: 20px 0px 20px 0;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow-x: auto;
+}
+table, th {
+    border: 1px solid white;
+    border-collapse: collapse;
+    font-size: 20px;
+    background-color: #68686885;
+    
+
+  }
+  td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    font-size: 20px;
+    background-color: #68686885;
+    width: auto;
+  }
+  .td-text-input{
+    background-color: #68686885; 
+    outline: none;
+    border: none;
+    padding-top: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    color: white;
+    width: 100%;
+    }
+.number-div{
+    display: flex;
+    width: auto;
+    gap: 10px;
+}
+.sale-no-div{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    /* margin-right: 10px; */
+}
+.business-div{
+    display: flex;
+    flex-direction: column;
+}
+.business-input{
+    color: white;
+    background-color: #68686885;
+    outline: none;
+    border:1px solid  white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.business-input::placeholder {
+    color: white;
+  }
+.Manpower-Strength-div{
+    display: flex;
+    flex-direction: column;
+}
+.Manpower-Strength-input{
+    color: white;
+    background-color: #68686885;
+    outline: none;
+    border:1px solid  white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.Manpower-Strength-input::placeholder {
+    color: white;
+  }
+
+.grid-container{
+    display: grid;
+  grid-template-columns: auto auto ;
+}
+.text-input-grid{
+    background-color: #68686885;
+outline: none;
+border:1px solid white;
+padding: 10px;
+border-radius: 5px;
+font-size: 15px;
+color: white;
+}
+.text-input-grid::placeholder {
+    color: white;
+  }
+.submit-button{
+    background-color: #68686885;
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 25%;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+/* form */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  .mobile_icon {
+    display: none;
+  }
+  
+  
+  
+  @media (max-width: 1024px) {
+      .whatsappimage2023-09-05at1214-1-mRb {
+      display: block;
+    }
+  
+    .mobile_icon {
+      display: block;
+      margin-right: 5px;
+  
+    }
+    /* .frame-14600-XqT */
+  
+    .frame-14600-XqT {
+      display: none;
+    }
+  
+    
+    .frame-14596-K37{
+      flex-direction: column;
+    }
+
+
+    /* form */
+    .grid-container{
+      display: grid;
+    grid-template-columns: auto  ;
+  }
+  .number-div{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    gap: 10px;
+}
+.submit-button{
+  background-color: #68686885;
+  border: none;
+  outline: none;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 10px;
+  width: 50%;
+  color: white;
+}
+  }

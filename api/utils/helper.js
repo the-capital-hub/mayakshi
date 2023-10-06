@@ -9,19 +9,15 @@ export const sendMail = async (email, subject, message) => {
     const msg = {
       to: "farmermartmayakshiretailer@gmail.com",
       from: "farmermartmayakshiretailer@gmail.com",
-      // from: email,
       subject: subject,
-      text: message,
+      // text: message,
+      html: message,  
     };
-    sgMail
-      .send(msg)
-      .then((response) => {
-        console.log(response[0].statusCode)
-      })
-      .catch((error) => {
-        console.error(error)
-        throw error.message;
-      })
+    await sgMail.send(msg);
+    return {
+      status: 200,
+      message: "Email Sent",
+    }
 
   } catch (error) {
     console.error('Error sending message:', error);
