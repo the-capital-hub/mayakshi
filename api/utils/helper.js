@@ -8,10 +8,12 @@ export const sendMail = async (email, subject, message) => {
   try {
     const msg = {
       to: "farmermartmayakshiretailer@gmail.com",
+      // to: "adithyahebbar32@gmail.com",
+      // from: "yesgobus.help@gmail.com",
       from: "farmermartmayakshiretailer@gmail.com",
-      // from: email,
       subject: subject,
-      text: message,
+      // text: message,
+      html: message,  
     };
     sgMail
       .send(msg)
