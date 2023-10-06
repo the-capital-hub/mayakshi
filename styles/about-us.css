@@ -220,6 +220,13 @@ display: flex;
   background-color: rgba(255, 255, 255, 0.7799999714);
   flex-shrink: 0;
 }
+.line-team {
+  margin-bottom: 2.95rem;
+  width: 14%;
+  height: 0.15rem;
+  background-color: rgba(255, 255, 255, 0.7799999714);
+  flex-shrink: 0;
+}
 .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idsit-purus-ante-dictum-in-malesuada-idlorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-id-Ra1 {
   margin-right: 2rem;
   font-size: 2rem;
@@ -333,6 +340,11 @@ display: flex;
 }
 .frame-14589-oMb{
   margin: 20px;
+}
+li{
+  color:white;
+  font-size: 30px;
+  line-height: 180%;
 }
 
 
