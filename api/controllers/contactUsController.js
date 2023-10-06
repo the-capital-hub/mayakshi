@@ -31,11 +31,8 @@ export const contactUsController = async (req, res) => {
       </html>
     `;
     const subject = "Contact Us Form";
-    await sendMail(email, subject, emailMessage);
-    res.status(200).send({
-      status: 200,
-      message: "Email Sent",
-    });
+    const response = await sendMail(email, subject, emailMessage);
+    res.status(response.status).send(response);
   } catch (error) {
     console.log(error);
     return res.status(500).send({
@@ -261,11 +258,8 @@ export const partnerFormMail = async (req, res) => {
     `;
 
     const subject = "Partners Form";
-    await sendMail(email, subject, emailMessage);
-    res.status(200).send({
-      status: 200,
-      message: "Email Sent",
-    });
+    const response = await sendMail(email, subject, emailMessage);
+    res.status(200).send(response);
   } catch (error) {
     console.log(error);
     return res.status(500).send({

@@ -8,22 +8,16 @@ export const sendMail = async (email, subject, message) => {
   try {
     const msg = {
       to: "farmermartmayakshiretailer@gmail.com",
-      // to: "adithyahebbar32@gmail.com",
-      // from: "yesgobus.help@gmail.com",
       from: "farmermartmayakshiretailer@gmail.com",
       subject: subject,
       // text: message,
       html: message,  
     };
-    sgMail
-      .send(msg)
-      .then((response) => {
-        console.log(response[0].statusCode)
-      })
-      .catch((error) => {
-        console.error(error)
-        throw error.message;
-      })
+    await sgMail.send(msg);
+    return {
+      status: 200,
+      message: "Email Sent",
+    }
 
   } catch (error) {
     console.error('Error sending message:', error);
