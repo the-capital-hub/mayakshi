@@ -629,8 +629,9 @@ a:active {
   flex-direction: column;
 }
 .group-14598-o9K, .group-14599-DEy, .group-14600-gwB, .group-15416-snh {
-max-width: 85%;
-padding: 2.477rem 15.431rem 2.483rem 13.321rem;
+max-width: 100%;
+width: 60%;
+/* padding: 2.477rem 15.431rem 2.483rem 13.321rem; */
 
 }
 .image-4-tgZ {
